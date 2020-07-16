@@ -8,6 +8,8 @@ You can also connect me through [my LinkedIn profile](https://www.linkedin.com/i
 
 🌱 I’m currently learning python and very much interested to contribute to some machine learning projects. Hoping for the best and happy coding. Tada!
 
+![Visitor Count](https://profile-counter.glitch.me/bonnopc/count.svg)
+
 <!--
 **bonnopc/bonnopc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
