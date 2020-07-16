@@ -4,7 +4,9 @@ I am Prosenjit Chowdhury, JS Dev, based on Dhaka, Bangladesh. In most of my dev 
 
 Recently I planned and started to write some blogs and tutorials for devs. You can find it here - [https://dev.to/bonnopc](https://dev.to/bonnopc)
 
-You can also connect me through [my LinkedIn profile](https://www.linkedin.com/in/bonnopc/) and also find me on [stackoverflow](https://stackoverflow.com/users/7430118/bonnopc)
+You can also connect me through [my LinkedIn profile](https://www.linkedin.com/in/bonnopc/) and also find me on [stackoverflow](https://stackoverflow.com/users/7430118/bonnopc).
+
+🌱 I’m currently learning python and very much interested to contribute to some machine learning projects. Hoping for the best and happy coding. Tada!
 
 <!--
 **bonnopc/bonnopc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
