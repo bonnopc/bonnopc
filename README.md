@@ -2,7 +2,7 @@
 <h3 align="center">JS Dev, based on Dhaka, Bangladesh</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bonnopc alt=bonnopc/> </p>
 
-I am Prosenjit Chowdhury, JS Dev, based on Dhaka, Bangladesh. In most of my dev life, like most other people, I had contributed on private repositories. That's why you can't see all of my contributions that I have done in these years. But, I thought I should contribute to the public and open-source projects more and hopefully you'll see more codes in this profile soon.
+In most of my dev life, like most other people, I had contributed on private repositories. That's why you can't see all of my contributions that I have done in these years. But, I thought I should contribute to the public and open-source projects more and hopefully you'll see more codes in this profile soon.
 
 - 🌱 Learning advanced practices of Python and very much interested to contribute in some machine learning projects.
 
