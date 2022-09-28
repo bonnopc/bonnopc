@@ -1,8 +1,10 @@
 <h1 align="center">Hello 👋, I am Prosenjit Chowdhury</h1>
 <h3 align="center">JS & Flutter Dev, based on Dhaka</h3>
+
+<h3 align="center">Checkout my recent github contributions: <a href=https://github.com/prosenjitalpine target="_blank">@prosenjitalpine</a></h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bonnopc alt=bonnopc/> </p>
 
-- 🌱  Working full-time & learning advanced practices of Flutter & Javascript. I'm also very much interested contributing in some embedded system projects.
+- 🌱  Working full-time & learning advanced practices of Python, Solidity & Javascript. I'm also very much interested contributing in some embedded system projects.
 
 - 🔭  I’m currently working on **a DeFi project**
 
@@ -13,6 +15,8 @@
 - 📫  Recently I planned and started to write some blogs and tutorials for devs. You can find it here - [https://dev.to/bonnopc](https://dev.to/bonnopc).
 
 - ⚡ Fun fact: Earth is round and dark themes should all over the town... 😄
+
+
 
 <p align="center">Find me at -</p>
 <p align="center">
