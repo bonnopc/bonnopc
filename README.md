@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am Prosenjit Chowdhury</h1>
 <h3 align="center">JS & Flutter Dev, based on Dhaka</h3>
 
-<h3 align="center">Checkout my recent github contributions: <a href=https://github.com/prosenjitalpine target="_blank">@prosenjitalpine</a></h3>
+<h3 align="center">Checkout my recent github contributions: <a href=https://github.com/pchy10 target="_blank">@pchy10</a></h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bonnopc alt=bonnopc/> </p>
 
 - 🌱  Working full-time & learning advanced practices of Python, Solidity & Javascript. I'm also very much interested contributing in some embedded system projects.
