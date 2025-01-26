@@ -1,5 +1,4 @@
 <h3>Hello 👋, I am PJ</h3>
-<p>Based in Dhaka, Bangladesh</p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bonnopc alt=bonnopc/> </p>
 
